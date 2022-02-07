@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907641543750",
+    "project_id": "traintravelers-e6944",
+    "storage_bucket": "traintravelers-e6944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907641543750:android:44cb50a680f3bc11963e47",
+        "android_client_info": {
+          "package_name": "com.example.traintravelers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907641543750-hmfs8b5kkp8lq5r9bk2r0r2dt5kuun67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT7Mbe3ohFGYgkiKmz4S1zEszuyvQv5iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907641543750-hmfs8b5kkp8lq5r9bk2r0r2dt5kuun67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
